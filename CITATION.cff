@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "NotY Caption Generator AI"
+message: "If you use NotY Caption Generator AI, please cite this repository."
+type: software
+authors:
+  - given-names: Shreyas
+    family-names: Mishra
+    affiliation: NotY215
+repository-code: "https://github.com/NotY215/NotYCaptionGenAi-Light-weight"
+url: "https://github.com/NotY215/NotYCaptionGenAi-Light-weight"
+license: "LGPL-3.0"
+version: "7.1"
