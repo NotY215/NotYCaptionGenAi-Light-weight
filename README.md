@@ -362,3 +362,14 @@ If you find this tool useful, please consider starring the repository on GitHub!
 **Made with ❤️ by NotY215**
 
 *Last Updated: April 2026*
+
+
+## Project policies
+
+- [Contributing](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security](SECURITY.md)
+- [Support](SUPPORT.md)
+- [Citation](CITATION.cff)
+- [Governance](GOVERNANCE.md)
+- [License](LICENSE)
