@@ -3,7 +3,7 @@
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-green.svg)](https://python.org)
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6.svg)](https://microsoft.com)
-[![Version](https://img.shields.io/badge/Version-7.1-red.svg)](https://github.com/NotY215/NotYCaptionGenAi)
+[![Version](https://img.shields.io/badge/Version-7.1-red.svg)](https://github.com/NotY215/NotYCaptionGenAi-Light-weight)
 
 A powerful command-line AI tool that generates professional subtitles/captions for videos and audio files using OpenAI's Whisper, with advanced vocal separation using Spleeter, YouTube download support, and smart subtitle formatting.
 
@@ -317,7 +317,7 @@ set TF_CPP_MIN_LOG_LEVEL=2
 |---------|------|
 | **Telegram** | https://t.me/Noty_215 |
 | **YouTube** | https://www.youtube.com/@NotY215 |
-| **GitHub** | https://github.com/NotY215/NotYCaptionGenAi |
+| **GitHub** | https://github.com/NotY215/NotYCaptionGenAi-Light-weight |
 | **Email** | NotY215@outlook.com |
 
 ## 🤝 Contributing
@@ -329,8 +329,8 @@ Contributions are welcome! Please:
 
 ### Development Setup
 ```bash
-git clone https://github.com/NotY215/NotYCaptionGenAi.git
-cd NotYCaptionGenAi
+git clone https://github.com/NotY215/NotYCaptionGenAi-Light-weight.git
+cd NotYCaptionGenAi-Light-weight
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
